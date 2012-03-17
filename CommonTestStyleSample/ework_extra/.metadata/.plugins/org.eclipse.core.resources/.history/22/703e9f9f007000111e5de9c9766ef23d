@@ -1,0 +1,23 @@
+package info.kyorohiro.helloworld.testsample.test;
+
+import dalvik.annotation.TestTarget;
+import info.kyorohiro.helloworld.testsample.TestTargetActivity;
+import android.test.ActivityInstrumentationTestCase2;
+
+public class TestSample extends ActivityInstrumentationTestCase2<TestTargetActivity>{
+
+	public TestSample() {
+		super(null, TestTargetActivity.class);
+	}
+	
+	
+	public void testSampleStartActivity() {
+		try {
+		Thread.sleep(3000);
+		} catch(Exception e) {
+			e.printStackTrace();
+		} finally {
+			
+		}
+	}
+}

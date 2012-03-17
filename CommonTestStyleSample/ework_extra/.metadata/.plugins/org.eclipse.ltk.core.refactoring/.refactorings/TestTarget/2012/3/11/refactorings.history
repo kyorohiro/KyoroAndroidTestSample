@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;info.kyorohiro.helloworld.testsample.util.ReturnHello&apos; to &apos;HelloProperty&apos;&#x0D;&#x0A;- Original project: &apos;TestTarget&apos;&#x0D;&#x0A;- Original element: &apos;info.kyorohiro.helloworld.testsample.util.ReturnHello&apos;&#x0D;&#x0A;- Renamed element: &apos;info.kyorohiro.helloworld.testsample.util.HelloProperty&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ReturnHello&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;info.kyorohiro.helloworld.testsample.util{ReturnHello.java[ReturnHello" matchStrategy="1" name="HelloProperty" qualified="false" references="true" similarDeclarations="false" stamp="1331971312713" textual="false" version="1.0"/>
+</session>

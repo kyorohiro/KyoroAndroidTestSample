@@ -1,0 +1,26 @@
+package info.kyorohiro.helloworld.testsample.util;
+
+public class HelloProperty {
+	public String getHello() {
+		return "Hello";
+	}
+
+	public void testSampleStartActivity() {
+		try {
+			android.util.Log.v("testsample","called testSampleStartActivity()");
+			Thread.sleep(3000);
+			
+			android.util.Log.v("testsample","startActivity()");
+			getActivity();
+			
+			android.util.Log.v("testsample","sleep 30 sec");
+			Thread.sleep(30000);			
+
+			assertTrue("good!!", true);
+		} catch(InterruptedException e) {
+			// don't pass along this route.
+			e.printStackTrace();
+			assertTrue("???", false);
+		}
+
+}
