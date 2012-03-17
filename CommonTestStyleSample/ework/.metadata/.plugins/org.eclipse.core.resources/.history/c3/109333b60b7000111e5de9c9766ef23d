@@ -1,0 +1,14 @@
+package info.kyorohiro.helloworld.testsample.test2.testcase;
+
+import info.kyorohiro.helloworld.testsample.test2.Pattern2TestProjectActivity;
+import android.test.ActivityInstrumentationTestCase2;
+import android.test.InstrumentationTestCase;
+
+public class TestSample2_1 extends ActivityInstrumentationTestCase2<Pattern2TestProjectActivity>{
+
+	public TestSample2_1() {
+		super(pkg, activityClass);
+		// TODO Auto-generated constructor stub
+	}
+
+}

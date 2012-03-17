@@ -1,0 +1,9 @@
+package info.kyorohiro.helloworld.testsample.test3.testcase;
+
+import info.kyorohiro.helloworld.testsample.test3.Pattern3TestProjectActivity;
+import android.test.ActivityInstrumentationTestCase2;
+
+public class TestSample3_1 extends ActivityInstrumentationTestCase2<Pattern3TestProjectActivity>{
+	public TestSample3_1() {
+	}
+}

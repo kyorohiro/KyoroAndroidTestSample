@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="dalvik.annotation.TestTarget"/>
+<fullyQualifiedTypeName name="info.kyorohiro.helloworld.testsample.TestTargetActivity"/>
+<fullyQualifiedTypeName name="java.lang.InterruptedException"/>
+<fullyQualifiedTypeName name="android.util.Log"/>
+<fullyQualifiedTypeName name="info.kyorohiro.helloworld.testsample.test3.Pattern3TestProjectActivity"/>
+<fullyQualifiedTypeName name="info.kyorohiro.helloworld.testsample.test3.Pattern3TestProjectActivity.OnCreate"/>
+<fullyQualifiedTypeName name="android.widget.TextView"/>
+<fullyQualifiedTypeName name="android.media.JetPlayer"/>
+<fullyQualifiedTypeName name="android.test.InstrumentationTestCase"/>
+<fullyQualifiedTypeName name="android.test.ActivityInstrumentationTestCase2"/>
+<fullyQualifiedTypeName name="info.kyorohiro.helloworld.testsample.test2.Pattern2TestProjectActivity"/>
+<fullyQualifiedTypeName name="info.kyorohiro.helloworld.testsample.test3.testcase.TestSample3_1"/>
+<fullyQualifiedTypeName name="info.kyorohiro.helloworld.testsample.extra.R"/>
+<fullyQualifiedTypeName name="info.kyorohiro.helloworld.testsample.extra.R.string"/>
+<fullyQualifiedTypeName name="info.kyorohiro.helloworld.testsample.util.HelloProperty"/>
+</qualifiedTypeNameHistroy>
