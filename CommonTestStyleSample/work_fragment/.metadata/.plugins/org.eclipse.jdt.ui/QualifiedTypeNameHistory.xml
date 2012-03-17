@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="android.graphics.AvoidXfermode"/>
+<fullyQualifiedTypeName name="android.os.Bundle"/>
+<fullyQualifiedTypeName name="com.example.android.hcgallery.test.TestActivity"/>
+<fullyQualifiedTypeName name="com.example.android.hcgallery.test.TestActivity.OnCreate"/>
+<fullyQualifiedTypeName name="com.example.android.hcgallery.MainActivity"/>
+<fullyQualifiedTypeName name="com.example.android.hcgallery.test.TestActivity2"/>
+<fullyQualifiedTypeName name="android.R"/>
+<fullyQualifiedTypeName name="android.R.xml"/>
+<fullyQualifiedTypeName name="android.preference.PreferenceFragment"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="android.preference.PreferenceActivity.Header"/>
+<fullyQualifiedTypeName name="android.preference.PreferenceActivity"/>
+<fullyQualifiedTypeName name="android.test.ActivityInstrumentationTestCase2"/>
+<fullyQualifiedTypeName name="info.kyorohiro.helloworld.testsample.test.test.testcase.TestCaseSample"/>
+<fullyQualifiedTypeName name="info.kyorohiro.helloworld.testsample.test.TestTargetFragment2"/>
+<fullyQualifiedTypeName name="android.widget.FrameLayout"/>
+<fullyQualifiedTypeName name="info.kyorohiro.helloworld.testsample.test.test.TestActivity"/>
+<fullyQualifiedTypeName name="android.widget.LinearLayout"/>
+<fullyQualifiedTypeName name="android.app.Activity"/>
+<fullyQualifiedTypeName name="android.app.FragmentManager"/>
+<fullyQualifiedTypeName name="android.app.FragmentTransaction"/>
+<fullyQualifiedTypeName name="info.kyorohiro.helloworld.testsample.test.TestTargetPreferenceFragment"/>
+<fullyQualifiedTypeName name="android.app.Fragment"/>
+<fullyQualifiedTypeName name="info.kyorohiro.helloworld.testsample.test.test.TestActivity.OnCreate"/>
+</qualifiedTypeNameHistroy>

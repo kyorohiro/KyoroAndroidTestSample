@@ -1,0 +1,42 @@
+package info.kyorohiro.helloworld.testsample.test.test;
+
+import info.kyorohiro.helloworld.testsample.test.TestTargetFragment2;
+import info.kyorohiro.helloworld.testsample.test.TestTargetPreferenceFragment;
+
+import java.util.List;
+
+import android.app.Activity;
+import android.app.Fragment;
+import android.app.FragmentManager;
+import android.app.FragmentTransaction;
+import android.os.Bundle;
+import android.preference.PreferenceActivity;
+import android.preference.PreferenceActivity.Header;
+import android.preference.PreferenceFragment;
+import android.widget.FrameLayout;
+import android.widget.LinearLayout;
+
+public class TestActivity extends Activity {
+	private static OnCreate mCreate = null;
+
+	/** Called when the activity is first created. */
+    @Override
+    public void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        if (mCreate != null) {
+        	mCreate.onCreate(this, savedInstanceState);
+        } else {
+        	android.util.Log.v("testsample","mCreate is null");
+        	setContentView(R.layout.main);
+        }
+    }
+
+    public static void setOnCreate(OnCreate creator) {
+    	mCreate = creator;
+    }
+
+    public static interface OnCreate {
+        void onCreate(Activity target, Bundle savedInstanceState);    	
+    }
+
+}

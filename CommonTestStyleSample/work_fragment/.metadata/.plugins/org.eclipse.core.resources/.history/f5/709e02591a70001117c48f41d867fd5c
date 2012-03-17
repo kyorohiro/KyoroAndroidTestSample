@@ -1,0 +1,38 @@
+package com.example.android.hcgallery.test.testcase;
+
+import com.example.android.hcgallery.test.TestActivity;
+import com.example.android.hcgallery.test.TestActivity.OnCreate;
+
+import android.app.Activity;
+import android.test.ActivityInstrumentationTestCase2;
+
+public class TestSample extends ActivityInstrumentationTestCase2<TestActivity>{
+
+	public TestSample() {
+		super(TestActivity.class.getPackage().toString(), TestActivity.class);
+	}
+
+	public void testSampleStartActivity() {
+		try {
+			TestActivity.setOnCreate(new OnCreate(){
+				@Override
+				public void onCreate(Activity target, Bundle savedInstanceState) {
+				}
+			});
+			android.util.Log.v("testsample","called testSampleStartActivity()");
+			Thread.sleep(3000);
+			
+			android.util.Log.v("testsample","startActivity()");
+			getActivity();
+			
+			android.util.Log.v("testsample","sleep 5 sec");
+			Thread.sleep(5000);			
+
+			assertTrue("good!!", true);
+		} catch(InterruptedException e) {
+			// don't pass along this route.
+			e.printStackTrace();
+			assertTrue("???", false);
+		}
+	}
+}

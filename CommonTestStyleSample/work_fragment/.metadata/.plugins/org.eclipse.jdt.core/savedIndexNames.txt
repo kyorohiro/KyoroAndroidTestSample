@@ -1,0 +1,7 @@
+INDEX VERSION 1.126+C:\github\KyoroAndroidTestSample\CommonTestStyleSample\work_fragment\.metadata\.plugins\org.eclipse.jdt.core
+2719595461.index
+136279142.index
+1925978863.index
+4175202845.index
+1937797638.index
+3803647860.index

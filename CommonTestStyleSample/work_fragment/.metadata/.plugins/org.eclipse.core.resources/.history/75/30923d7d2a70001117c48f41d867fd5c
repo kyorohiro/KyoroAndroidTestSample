@@ -1,0 +1,35 @@
+package info.kyorohiro.helloworld.testsample.test.test.testcase;
+
+import info.kyorohiro.helloworld.testsample.test.test.R;
+import info.kyorohiro.helloworld.testsample.test.test.TestActivity;
+import android.test.ActivityInstrumentationTestCase2;
+
+public class TestCaseSample extends ActivityInstrumentationTestCase2<TestActivity>{
+
+	public TestCaseSample() {
+		super(TestActivity.class.getPackage().toString(), TestActivity.class);
+	}
+
+	public void testSampleStartActivity() {
+		try {
+			TestActivity.sHeaderResoure =  R.xml.pref2;
+			android.util.Log.v("testsample","called testSampleStartActivity()");
+			getInstrumentation().waitForIdleSync();
+			
+			android.util.Log.v("testsample","startActivity()");
+			getActivity();
+
+			getInstrumentation().waitForIdleSync();
+
+			android.util.Log.v("testsample","sleep 5 sec");
+			Thread.sleep(5000);			
+
+			assertTrue("good!!", true);
+		} catch(InterruptedException e) {
+			// don't pass along this route.
+			e.printStackTrace();
+			assertTrue("???", false);
+		}
+	}
+
+}

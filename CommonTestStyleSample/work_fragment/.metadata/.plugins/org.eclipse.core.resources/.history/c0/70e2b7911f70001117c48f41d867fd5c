@@ -1,0 +1,5 @@
+package info.kyorohiro.helloworld.testsample.test;
+
+public class TestTargetPreferenceFragment {
+
+}

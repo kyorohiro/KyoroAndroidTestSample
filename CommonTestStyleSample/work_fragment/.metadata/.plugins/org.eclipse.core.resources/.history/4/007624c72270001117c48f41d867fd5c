@@ -1,0 +1,51 @@
+<PreferenceScreen
+03.
+xmlns:android="http://schemas.android.com/apk/res/android ">
+04.
+<PreferenceCategory android:title="@string/title">
+05.
+<CheckBoxPreference
+06.
+android:key="checkbox_key"
+07.
+android:title="@string/checkbox_title"
+08.
+android:summary="@string/checkbox_summary" />
+09.
+<EditTextPreference
+10.
+android:key="edittext_key"
+11.
+android:title="@string/edittext_title"
+12.
+android:summary="@string/edittext_summary"
+13.
+android:dialogTitle="@string/edittext_dialogtitle" />
+14.
+<ListPreference
+15.
+android:key="list_key"
+16.
+android:title="@string/list_title"
+17.
+android:summary="@string/list_summary"
+18.
+android:dialogTitle="@string/list_dialogtitle"
+19.
+android:entries="@array/list_entries"
+20.
+android:entryValues="@array/list_entryvalues" />
+21.
+<RingtonePreference
+22.
+android:key="ringtone_key"
+23.
+android:title="@string/ringtone_title"
+24.
+android:showDefault="true"
+25.
+android:summary="@string/ringtone_summary" />
+26.
+</PreferenceCategory>
+27.
+</PreferenceScreen>

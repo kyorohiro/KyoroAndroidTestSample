@@ -1,0 +1,276 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1331980635766
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1331980642718
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1331980646737
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1331980648056
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1331980648761
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1331980648994
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1331980649462
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1331980649685
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1331980650096
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1331980650332
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1331980650736
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1331980650964
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1331980651327
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1331980651548
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1331980651904
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1331980652121
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1331980652923
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1331980654876
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1331980665983
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331980667910
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331980792903
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1331980792952
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1331980797511
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1331980800529
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1331980802258
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1331980803930
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331980813045
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1331980873347
+error,log,,,"Failed to load properties file for project 'TestTargetWithFragment'",1331980886376
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331980886700
+opened,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1331980897963
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1331980898115
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1331980899918
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1331981614877
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1331981617660
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1331981617866
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1331981621692
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1331981628128
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1331981628829
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331981633672
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331981640632
+opened,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1331981640958
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1331981641108
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1331981643239
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331981649037
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331981652950
+executed,command,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.edit.text.java.rename.element",1331981652982
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1331981655272
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.text.contentAssist.proposals",1331981659007
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.text.contentAssist.proposals",1331981664855
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1331981668928
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1331981677642
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331981679849
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331981884239
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1331981886830
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331981892282
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331981980169
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331981984777
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331982108651
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331982123038
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331982125227
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331982144844
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1331982146425
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331982154667
+error,log,,,"Failed to execute ResourceManager.IResouceListener.fileChanged()",1331982154790
+error,log,,,"Could not create tab content because could not find view with id -1",1331982166438
+error,log,,,"Could not create tab content because could not find view with id -1",1331982166454
+opened,editor,com.android.ide.eclipse.adt,15.0.0.v201110251216-213216,"com.android.ide.eclipse.editors.layout.LayoutEditor",1331982167194
+activated,editor,com.android.ide.eclipse.adt,15.0.0.v201110251216-213216,"com.android.ide.eclipse.editors.layout.LayoutEditor",1331982167395
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331982167617
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331982216648
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1331982216716
+activated,editor,com.android.ide.eclipse.adt,15.0.0.v201110251216-213216,"com.android.ide.eclipse.editors.layout.LayoutEditor",1331982224876
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1331982246645
+error,log,,,"Failed to call IFileListener.fileChanged",1331982249775
+error,log,,,"Failed to execute ResourceManager.IResouceListener.fileChanged()",1331982250003
+error,log,,,"Failed to execute ResourceManager.IResouceListener.fileChanged()",1331982250005
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331982253659
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331982260339
+activated,editor,com.android.ide.eclipse.adt,15.0.0.v201110251216-213216,"com.android.ide.eclipse.editors.layout.LayoutEditor",1331982260490
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1331982267676
+error,log,,,"Failed to call IFileListener.fileChanged",1331982269078
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1331982269099
+error,log,,,"Failed to execute ResourceManager.IResouceListener.fileChanged()",1331982269213
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1331982269870
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.redo",1331982271637
+error,log,,,"Failed to call IFileListener.fileChanged",1331982272367
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1331982272390
+error,log,,,"Failed to execute ResourceManager.IResouceListener.fileChanged()",1331982272513
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331982275246
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331982304911
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331982314633
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331982323033
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1331982325390
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331982327523
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331982328814
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.delete",1331982328841
+error,log,,,"Failed to execute ResourceManager.IResouceListener.fileChanged()",1331982328854
+activated,editor,com.android.ide.eclipse.adt,15.0.0.v201110251216-213216,"com.android.ide.eclipse.editors.layout.LayoutEditor",1331982381794
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1331982382349
+closed,editor,com.android.ide.eclipse.adt,15.0.0.v201110251216-213216,"com.android.ide.eclipse.editors.layout.LayoutEditor",1331982382349
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.text.contentAssist.proposals",1331982389853
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1331982397132
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1331982401472
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1331982405171
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331982409660
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331982411811
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1331982411868
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.text.contentAssist.proposals",1331982417159
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.text.contentAssist.proposals",1331982420315
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.text.contentAssist.proposals",1331982422956
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.text.contentAssist.proposals",1331982425132
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331982435945
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331982708666
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.text.contentAssist.proposals",1331982711223
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331982715095
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331982718868
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331982725655
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331982739810
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331982743629
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331982745408
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331982747592
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331982783999
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1331982788327
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1331982788655
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.text.contentAssist.proposals",1331982791132
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331982799180
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331982890162
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1331982890232
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331982907953
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331982915266
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331982920993
+error,log,,,"Failed to call IFileListener.fileChanged",1331982924892
+error,log,,,"Failed to execute ResourceManager.IResouceListener.fileChanged()",1331982925061
+error,log,,,"Failed to call IFileListener.fileChanged",1331982925082
+opened,editor,org.eclipse.wst.xml.ui,1.1.103.v201101122108,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1331982925220
+activated,editor,org.eclipse.wst.xml.ui,1.1.103.v201101122108,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1331982925318
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331982925410
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1331982928843
+error,log,,,"Failed to call IFileListener.fileChanged",1331982929634
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1331982929651
+error,log,,,"Failed to execute ResourceManager.IResouceListener.fileChanged()",1331982929967
+error,log,,,"Failed to call IFileListener.fileChanged",1331982929995
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1331982930639
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331982932778
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331983039393
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1331983042532
+executed,command,org.eclipse.wst.sse.ui,1.2.3.v201102102045,"org.eclipse.wst.sse.ui.format.active.elements",1331983045139
+error,log,,,"Failed to call IFileListener.fileChanged",1331983047066
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1331983047086
+error,log,,,"Failed to execute ResourceManager.IResouceListener.fileChanged()",1331983047239
+error,log,,,"Failed to call IFileListener.fileChanged",1331983047485
+error,log,,,"Failed to call IFileListener.fileChanged",1331983092779
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1331983092796
+error,log,,,"Failed to execute ResourceManager.IResouceListener.fileChanged()",1331983092948
+error,log,,,"Failed to call IFileListener.fileChanged",1331983092977
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1331983098630
+activated,editor,org.eclipse.wst.xml.ui,1.1.103.v201101122108,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1331983098820
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1331983103033
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1331983103949
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331983108851
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331983127246
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.goto.lineStart",1331983129612
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1331983133253
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.selectAll",1331983134352
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1331983149808
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1331983152182
+error,log,,,"An internal error occurred during: ""Compute launch button tooltip"".",1331983153774
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331983153798
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331983155246
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1331983156575
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.refresh",1331983157229
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1331983161536
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.text.contentAssist.proposals",1331983167587
+error,log,,,"An internal error occurred during: ""Compute launch button tooltip"".",1331983170221
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331983170250
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331983170839
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1331983172632
+activated,editor,org.eclipse.wst.xml.ui,1.1.103.v201101122108,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1331983175686
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331983176949
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331983177548
+activated,view,org.eclipse.ui.console,3.5.0.v20100526,"org.eclipse.ui.console.ConsoleView",1331983187070
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1331983191461
+activated,editor,org.eclipse.wst.xml.ui,1.1.103.v201101122108,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1331983191599
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331983200470
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331983201992
+executed,command,org.eclipse.ui.ide,3.6.2.M20101201-0800,"org.eclipse.ui.project.cleanAction",1331983202021
+activated,view,org.eclipse.ui.console,3.5.0.v20100526,"org.eclipse.ui.console.ConsoleView",1331983203108
+error,log,,,"Failed to call IFileListener.fileChanged",1331983206258
+activated,editor,org.eclipse.wst.xml.ui,1.1.103.v201101122108,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1331983231006
+error,log,,,"Failed to call IFileListener.fileChanged",1331983238041
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1331983238069
+error,log,,,"Failed to execute ResourceManager.IResouceListener.fileChanged()",1331983238210
+error,log,,,"Failed to call IFileListener.fileChanged",1331983238231
+error,log,,,"Failed to call IFileListener.fileChanged",1331983268685
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1331983268697
+error,log,,,"Failed to execute ResourceManager.IResouceListener.fileChanged()",1331983268852
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331983273295
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331983274283
+executed,command,org.eclipse.ui.ide,3.6.2.M20101201-0800,"org.eclipse.ui.project.cleanAction",1331983274311
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1331983276659
+error,log,,,"Failed to call IFileListener.fileChanged",1331983278082
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.text.contentAssist.proposals",1331983279935
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1331983286420
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1331983297407
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.goto.lineStart",1331983300697
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1331983304306
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1331983306043
+error,log,,,"An internal error occurred during: ""Compute launch button tooltip"".",1331983312312
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331983312337
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331983312664
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331983314314
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331983315474
+executed,command,org.eclipse.ui.ide,3.6.2.M20101201-0800,"org.eclipse.ui.project.cleanAction",1331983315513
+error,log,,,"Failed to call IFileListener.fileChanged",1331983315633
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331983316196
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331983316380
+error,log,,,"Failed to call IFileListener.fileChanged",1331983319831
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1331983320989
+activated,editor,org.eclipse.wst.xml.ui,1.1.103.v201101122108,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1331983321507
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.text.contentAssist.proposals",1331983338877
+error,log,,,"Failed to call IFileListener.fileChanged",1331983341176
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1331983341193
+error,log,,,"Failed to execute ResourceManager.IResouceListener.fileChanged()",1331983341384
+error,log,,,"Failed to call IFileListener.fileChanged",1331983341413
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331983347377
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331983348401
+executed,command,org.eclipse.ui.ide,3.6.2.M20101201-0800,"org.eclipse.ui.project.cleanAction",1331983348460
+error,log,,,"Failed to call IFileListener.fileChanged",1331983353560
+error,log,,,"Failed to call IFileListener.fileChanged",1331983366763
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1331983366786
+error,log,,,"Failed to execute ResourceManager.IResouceListener.fileChanged()",1331983366966
+error,log,,,"Failed to call IFileListener.fileChanged",1331983366987
+error,log,,,"Failed to call IFileListener.fileChanged",1331983370239
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1331983370251
+error,log,,,"Failed to execute ResourceManager.IResouceListener.fileChanged()",1331983370374
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331983374258
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331983375353
+executed,command,org.eclipse.ui.ide,3.6.2.M20101201-0800,"org.eclipse.ui.project.cleanAction",1331983375389
+error,log,,,"Failed to call IFileListener.fileChanged",1331983379303
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1331983386290
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331983388180
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331983389686
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.delete",1331983389715
+error,log,,,"Failed to execute ResourceManager.IResouceListener.fileChanged()",1331983389815
+closed,editor,org.eclipse.wst.xml.ui,1.1.103.v201101122108,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1331983390205
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1331983393009
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1331983393855
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1331983394120
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1331983394513
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1331983394744
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1331983396114
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1331983396364
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.text.contentAssist.proposals",1331983400026
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331983413225
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331983446859
+error,log,,,"An internal error occurred during: ""Compute launch button tooltip"".",1331983450731
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331983450757
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331983451505
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331983452371
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331983455971
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1331983457461
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331983463946
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331983466148
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331983472861
+error,log,,,"Failed to call IFileListener.fileChanged",1331983475199
+error,log,,,"Failed to execute ResourceManager.IResouceListener.fileChanged()",1331983475318
+error,log,,,"Failed to call IFileListener.fileChanged",1331983475347
+opened,editor,org.eclipse.wst.xml.ui,1.1.103.v201101122108,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1331983475380
+activated,editor,org.eclipse.wst.xml.ui,1.1.103.v201101122108,"org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart",1331983475470
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331983475553
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1331983478451
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331983480323
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331983480699
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1331983480720

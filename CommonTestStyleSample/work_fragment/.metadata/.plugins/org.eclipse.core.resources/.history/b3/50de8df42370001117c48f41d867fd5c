@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, TestTargetWithFragmentActivity!</string>
+    <string name="app_name">TestTargetWithFragment</string>
+    <string name="general_settings">General settings</string>
+    <string name="whisper_title">Whisper utterances</string>
+    <string name="whisper_summary">Say stuff really softly, only the keenest
+      eared robots can understand.</string>
+</resources>

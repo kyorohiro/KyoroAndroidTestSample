@@ -1,0 +1,36 @@
+package info.kyorohiro.helloworld.testsample.test.test;
+
+import info.kyorohiro.helloworld.testsample.test.TestTargetFragment2;
+import info.kyorohiro.helloworld.testsample.test.TestTargetPreferenceFragment;
+
+import java.util.List;
+
+import android.app.Activity;
+import android.app.Fragment;
+import android.app.FragmentManager;
+import android.app.FragmentTransaction;
+import android.os.Bundle;
+import android.preference.PreferenceActivity;
+import android.preference.PreferenceActivity.Header;
+import android.preference.PreferenceFragment;
+import android.widget.FrameLayout;
+import android.widget.LinearLayout;
+
+public class TestActivity extends Activity {
+
+	@Override
+	public void onCreate(Bundle savedInstanceState) {
+		super.onCreate(savedInstanceState);
+		LinearLayout layout = new LinearLayout(this);
+		setContentView(layout);
+		layout.setId(3001);
+		FragmentManager m = getFragmentManager();
+		FragmentTransaction t = m.beginTransaction();
+		Fragment f1 = new TestTargetPreferenceFragment();
+
+		t.add(layout.getId(),f1, "f1");
+		t.show(f1);
+
+		t.commit();
+	}
+}

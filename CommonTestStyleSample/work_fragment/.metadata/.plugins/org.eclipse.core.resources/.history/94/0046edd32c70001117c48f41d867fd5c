@@ -1,0 +1,49 @@
+package info.kyorohiro.helloworld.testsample.test.test;
+
+import info.kyorohiro.helloworld.testsample.test.TestTargetPreferenceFragment;
+
+import java.util.List;
+
+import android.app.Activity;
+import android.app.FragmentManager;
+import android.app.FragmentTransaction;
+import android.os.Bundle;
+import android.preference.PreferenceActivity;
+import android.preference.PreferenceActivity.Header;
+import android.preference.PreferenceFragment;
+
+public class TestActivity extends PreferenceActivity {
+	
+	public static int sHeaderResoure = R.xml.pref2;
+
+	@Override
+    public void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+///*
+        FragmentManager m = getFragmentManager();
+        FragmentTransaction t = m.beginTransaction();
+//        t.add(new TestTargetPreferenceFragment(), "aa");
+//        t.commit();
+        mFragment1 = fm.findFragmentByTag("f1"); //既に作成済みであるか検索
+        if (mFragment1 == null) {
+            mFragment1 = new MenuFragment(); //後述のクラス
+            ft.add(mFragment1, "f1");
+        }
+        mFragment2 = fm.findFragmentByTag("f2"); //既に作成済みであるか検索
+        if (mFragment2 == null) {
+            mFragment2 = new Menu2Fragment(); //後述のクラス
+            ft.add(mFragment2, "f2");
+        }
+        t.commit();
+//        setContentView(R.layout.main);*/
+ 
+    }
+
+/*
+    @Override
+    public void onBuildHeaders(List<Header> target) {
+    	
+        loadHeadersFromResource(sHeaderResoure, target);
+    }
+*/
+}

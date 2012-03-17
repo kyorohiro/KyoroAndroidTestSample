@@ -1,0 +1,9 @@
+package com.example.android.hcgallery.test.testcase;
+
+import com.example.android.hcgallery.test.TestActivity;
+
+import android.test.ActivityInstrumentationTestCase2;
+
+public class TestSample extends ActivityInstrumentationTestCase2<TestActivity>{
+
+}

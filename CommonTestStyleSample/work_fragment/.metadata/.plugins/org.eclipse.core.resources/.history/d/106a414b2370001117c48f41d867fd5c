@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android ">
+	<PreferenceCategory android:title="A">
+		<EditTextPreference android:key="edittext_key"
+			android:title="@string/edittext_title" android:summary="@string/edittext_summary"
+			android:dialogTitle="@string/edittext_dialogtitle" />
+		<RingtonePreference android:key="ringtone_key"
+			android:title="@string/ringtone_title" android:showDefault="true"
+			android:summary="@string/ringtone_summary" />
+	</PreferenceCategory>
+</PreferenceScreen>

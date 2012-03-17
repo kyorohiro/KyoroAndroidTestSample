@@ -1,0 +1,53 @@
+package info.kyorohiro.helloworld.testsample.test.test;
+
+import info.kyorohiro.helloworld.testsample.test.TestTargetFragment2;
+import info.kyorohiro.helloworld.testsample.test.TestTargetPreferenceFragment;
+
+import java.util.List;
+
+import android.app.Activity;
+import android.app.Fragment;
+import android.app.FragmentManager;
+import android.app.FragmentTransaction;
+import android.os.Bundle;
+import android.preference.PreferenceActivity;
+import android.preference.PreferenceActivity.Header;
+import android.preference.PreferenceFragment;
+import android.widget.FrameLayout;
+
+public class TestActivity extends PreferenceActivity {
+	
+	public static int sHeaderResoure = R.xml.pref2;
+
+	@Override
+    public void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+///*
+        FrameLayout layout=new FrameLayout(this);
+        
+       //.addView(child)
+       // layout.setRight(right)
+       // setContentView(layout);
+        FragmentManager m = getFragmentManager();
+        FragmentTransaction t = m.beginTransaction();
+        Fragment f1 = new TestTargetPreferenceFragment(); 
+   //     Fragment f2 = new TestTargetFragment2(); 
+        t.add(f1, "f1");
+        t.show(f1);
+    //    t.add(f2, "f2");
+     //   t.show(f2);
+
+        t.commit();
+        
+//        setContentView(R.layout.main);*/
+ 
+    }
+
+/*
+    @Override
+    public void onBuildHeaders(List<Header> target) {
+    	
+        loadHeadersFromResource(sHeaderResoure, target);
+    }
+*/
+}

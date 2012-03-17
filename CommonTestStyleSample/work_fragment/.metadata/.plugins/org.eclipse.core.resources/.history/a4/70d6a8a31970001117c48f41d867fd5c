@@ -1,0 +1,8 @@
+package com.example.android.hcgallery.test;
+
+import android.app.Activity;
+import android.graphics.AvoidXfermode;
+
+public class TestActivity extends Activity {
+
+}
