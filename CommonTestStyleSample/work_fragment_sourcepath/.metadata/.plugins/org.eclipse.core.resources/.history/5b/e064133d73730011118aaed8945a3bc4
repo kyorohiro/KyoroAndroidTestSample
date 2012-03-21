@@ -1,0 +1,18 @@
+package info.kyorohiro.helloworld.testsample.test;
+
+import android.app.Fragment;
+import android.content.res.Resources;
+import android.os.Bundle;
+
+public class TestTargetFragment2 extends Fragment {
+	@Override
+	public void onCreate(Bundle savedInstanceState) {
+		super.onCreate(savedInstanceState);
+	}
+	
+	private String getRingtone(int i){
+		Resources res = getResources();
+		String [] ary = res.getStringArray(R.string.app_name);
+		return ary[i];
+	}
+}

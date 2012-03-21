@@ -1,0 +1,12 @@
+#Thu Mar 22 02:13:22 JST 2012
+logcat.view.colsize.Text=536
+logcat.view.colsize.Level=28
+logcat.view.colsize.Application=133
+logcat.view.colsize.PID=52
+logcat.view.colsize.Tag=107
+devicePanel.Col4=66
+logcat.view.colsize.Time=132
+devicePanel.Col1=46
+devicePanel.Col0=101
+eclipse.preferences.version=1
+logcat.view.filters.list=name\: 'kiyo', tag\: 'kiyo', text\: '', pid\: '', app\: '', level\: 'verbose', 
